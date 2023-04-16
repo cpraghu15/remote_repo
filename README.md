@@ -8,3 +8,6 @@ all the changes have done and make changes and push it to remote repository
  do the changes and check it is present in the local 
 
 
+all the action is taken palce in local and server with help of internet
+
+
